@@ -1,5 +1,22 @@
 {
   "version": 0,
-  "timeEvents": [],
+  "timeEvents": [
+    {
+      "name": "show bars",
+      "targetTime": 0
+    },
+    {
+      "name": "show arrows",
+      "targetTime": 2.0339397833533632
+    },
+    {
+      "name": "visual sort",
+      "targetTime": 2.8108843560075565
+    },
+    {
+      "name": "visual unsort",
+      "targetTime": 4.168822152739863
+    }
+  ],
   "seed": 2076749800
 }
